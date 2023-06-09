@@ -2,11 +2,12 @@
 
 Admin panel
 
-![image](https://github.com/Asadullah-nadeem/video-streaming-app/assets/88024587/e8d3ec82-c94a-4168-a1a6-31a884b560d2)
+![Screenshot 2023-06-03 154820](https://github.com/Asadullah-nadeem/video-streaming-app/assets/88024587/4a2d2abe-a66e-4ed4-9a29-1cf4067f60c9)
 
+![Screenshot 2023-06-03 154834](https://github.com/Asadullah-nadeem/video-streaming-app/assets/88024587/a2a0c44a-2ff1-47f6-854d-009c40a7314d)
 
-![image](https://github.com/Asadullah-nadeem/video-streaming-app/assets/88024587/9d60b0a9-91c4-4b0b-993f-65baadee2bfb)
+![Screenshot 2023-06-03 154933](https://github.com/Asadullah-nadeem/video-streaming-app/assets/88024587/631964c6-2c4f-4bbe-819c-936982a565b1)
 
-![image](https://github.com/Asadullah-nadeem/video-streaming-app/assets/88024587/6b7a23be-c1cd-47c9-ae8f-6badd486f348)
+![Screenshot 2023-06-03 154955](https://github.com/Asadullah-nadeem/video-streaming-app/assets/88024587/77f342ca-0d93-4f0b-af16-d3ae529db323)
 
-![image](https://github.com/Asadullah-nadeem/video-streaming-app/assets/88024587/73aede4b-d587-4cd0-968e-9d84a47282cb)
+![Screenshot 2023-06-03 155222](https://github.com/Asadullah-nadeem/video-streaming-app/assets/88024587/fb23ba45-0237-49ad-aeff-2d1c8d12c914)
